@@ -1,4 +1,4 @@
-# jsp model1 게시판 
+# jsp model1 (crud) 게시판 
 ![bbs(sql)](https://user-images.githubusercontent.com/51360760/59986094-18e9f480-9670-11e9-8b65-0fa2178e2b8a.png)
 ![main](https://user-images.githubusercontent.com/51360760/58958681-6ba55e80-87de-11e9-8005-86e9c1358b77.png)
 ![register](https://user-images.githubusercontent.com/51360760/58959538-474a8180-87e0-11e9-8394-681414e7bc88.png)
